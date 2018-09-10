@@ -1,0 +1,10 @@
+Introduction:
+	->it is open source server environment
+	->it is platform independent
+	->it is free of source.
+Reasons For Node.js
+	->At First if you want to run the javascript in web-browser.it will convert the js file into machine code.
+	Js File -->js engine -->machine code
+	->every browser has different js engine so that it will behave every code in different behaviour.
+	For Example:IE uses chakra,m.firefox uses spider monkey and chrome uses v8.
+outcoming of Node.js
